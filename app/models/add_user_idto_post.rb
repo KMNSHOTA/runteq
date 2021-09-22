@@ -1,0 +1,2 @@
+class AddUserIdtoPost < ApplicationRecord
+end
