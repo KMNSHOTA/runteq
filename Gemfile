@@ -40,7 +40,6 @@ gem 'bootstrap', '~> 4.5.0'
 gem 'font-awesome-sass', '~> 5.11.2'
 gem 'jquery-rails'
 gem 'sorcery', '0.15.0'
-gem 'parser', '~> 3.0.0.0'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console

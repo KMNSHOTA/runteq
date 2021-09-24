@@ -1,2 +1,0 @@
-class AddUserIdtoPost < ApplicationRecord
-end
